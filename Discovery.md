@@ -15,4 +15,4 @@ A new minimal yet powerful proxy site built for users and developers.
 
 View the censored web like never before with this new web proxy service in React supporting many sites. Third place winner for [TN](https://github.com/titaniumnetwork-dev)'s 2023 Proxathon.
 
-GitHub repo: <https://github.com/xjzh123/Deta-Ultraviolet-App>
+GitHub repo: <https://github.com/xjzh123/Deta-Cobalt>

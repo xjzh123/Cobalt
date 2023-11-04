@@ -20,3 +20,5 @@
 This repo adapts Cobalt for [Deta](https://deta.space) Space. For more documents, plese visit the [original repo](https://github.com/cognetwork-dev/Cobalt).
 
 In order to reduce dependency size, I move many dependencies to dev dependencies, and you need to build locally then push to Space, so that I don't need to upload all dependencies for building Cobalt to Space.
+
+Deta Discovery: <https://deta.space/discovery/@pillowwork-deta/cobalt>

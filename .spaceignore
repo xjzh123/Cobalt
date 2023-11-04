@@ -1,0 +1,15 @@
+!build
+
+*.md
+config
+public
+src
+.eslintignore
+.eslintrc.json
+.gitpod.yml
+build.mjs
+LICENSE
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+pnpm-lock.yaml

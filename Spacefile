@@ -1,0 +1,12 @@
+v: 0
+auto_pwa: false
+micros:
+  - name: proxy
+    src: .
+    engine: nodejs16
+    primary: true
+    commands:
+      - npm install yarn
+    run: npm start
+    dev: pnpm start
+    public: true

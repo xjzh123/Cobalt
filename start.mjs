@@ -62,7 +62,7 @@ httpServer.on("listening", () => {
 
     console.log(
         `  ${chalk.bold("Local:")}            http://${
-            address.family === "IPv6" ? `[${address.address}]` : addr.address
+            address.family === "IPv6" ? `[${address.address}]` : address.address
         }${address.port === 80 ? "" : ":" + chalk.bold(address.port)}`
     );
 

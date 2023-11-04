@@ -1,7 +1,8 @@
 v: 0
 auto_pwa: false
+icon: ./logo512.png
 micros:
-  - name: proxy
+  - name: Cobalt
     src: .
     engine: nodejs16
     primary: true
